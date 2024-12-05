@@ -6,8 +6,6 @@
 
 ## Overview
  * 오픈소스를 활용한 지능형 SDR 응용 프로그램의 실행을 위하여 RISC-V를 지원 하도록 운영.
- * 리눅스 커널, 시스템 라이브러리, 각종 관리 도구 등을 포함하는 시스템 소프트웨어 배포판 관련 레포지토리로 구성.
- * 배포판과 ROS2를 연계하여 운영할 수 있도록 하는 개발 환경 구축을 위한 레포지토리로 구성.
 ![SDR_RISCV_Res](https://github.com/riscv-vela/.github/blob/main/sdr_riscv_res.png?raw=true)
 
 ### 운영체제 

@@ -4,8 +4,38 @@
 ## What is Vela
  * Development of open system software technology to support a low-power, high-efficiency, high-reliability, and high-availability execution environment by linking RISC-V hardware expansion technology to strengthen the open SDR software ecosystem.
 
-## Overview
- * Operate to support RISC-V for the execution of intelligent SDR applications utilizing open source.
+# Overview
+## System Architecture for Intelligent SDR Applications with RISC-V
+
+This diagram represents a comprehensive system architecture for intelligent SDR (Software Defined Radio) applications leveraging RISC-V. The architecture consists of three main layers: **Middleware**, **Linux Kernel**, and **Verification Environment**.
+
+### Middleware
+The middleware layer focuses on:
+- RISC-V compiler optimization and ISA-based load balancing.
+- Resource monitoring and profiling for system performance.
+- AI model execution and SDR application performance optimization.
+- System resource and power management tools.
+
+### Linux Kernel
+The Linux Kernel layer is divided into four key subsystems:
+-  **Low-Power Kernel**:
+   - Power analysis, DVFS (Dynamic Voltage-Frequency Scaling), and thermal management.
+-  **High-Efficiency Kernel**:
+   - AI engine scheduling, multi-model optimization, and efficient message communication.
+-  **High-Availability Kernel**:
+   - RAS (Reliability, Availability, and Serviceability) event handling and error recovery.
+-  **Trusted Execution Manager**:
+   - Secure AI engine execution, memory isolation, and trusted execution environment support.
+
+### Verification Environment
+The verification environment provides:
+- RISC-V ISA extensions and enhanced AI engine performance.
+- Support for power optimization, reliability, and scalability.
+- Tools for validating system integrity and ensuring robust execution environments.
+
+This architecture enables a highly reliable, scalable, and efficient system for high-performance SDR applications.
+
+
 ![SDR_RISCV_Res](https://github.com/riscv-vela/.github/blob/main/sdr_riscv_res.png?raw=true)
 
 ### Operating System

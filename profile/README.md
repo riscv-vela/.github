@@ -18,3 +18,8 @@ This repository includes tools for the development environment, Linux kernel, mi
 3. High Reliability: Ensuring stability and trustworthiness of ROS2-based robots through process isolation between ROS2 applications.
 4. High Availability: Managing and controlling hardware and software faults within robotic systems.
 5. Message Delivery Optimization: Enhancing inter-application message delivery performance in ROS2.
+
+## Link
+
+- [Project Dashboard](http://vela.falinux.com)
+- [Wiki](https://riscv-vela.direct.quickconnect.to/mediawiki/)

@@ -21,5 +21,5 @@ This repository includes tools for the development environment, Linux kernel, mi
 
 ## Link
 
-- [Project Dashboard](http://vela.falinux.com)
-- [Wiki](https://riscv-vela.direct.quickconnect.to/mediawiki/)
+- [Project Dashboard](http://vela.falinux.com/dashboard/)
+- [Wiki](http://vela.falinux.com/mediawiki/)

@@ -28,32 +28,7 @@ The Vela project is an open RISC-V–based SDR system software stack that includ
  - ROS2: Apache-2.0 / BSD-3-Clause
  - Ubuntu Packages: GPL, LGPL, MIT, BSD, and other upstream licenses
 
-## 4. Development Environment
-To verify the functionality and performance of the RISC-V–based SDR system software (Vela), the project establishes a dual testing environment: a QEMU-based
-virtual platform (Q-Vela) and an FPGA-based hardware validation platform (F-Vela).
-
-Q-Vela (https://github.com/riscv-vela/q-vela):
-QEMU-based RISC-V virtual emulation environment that validates integrated SDR distribution functions for low power, high performance, high reliability, and high
-availability. It focuses on function-level testing and is used to validate AI engine extensions, vector unit features, and Linux kernel/ROS2 integration.
-
-F-Vela (https://github.com/riscv-vela/f-vela):
-FPGA-based RISC-V hardware acceleration and performance measurement platform. It performs real hardware validation for functions verified in Q-Vela, focusing on metrics such as performance and power efficiency.
-
-## 5. Building the Vela System Image
-
-## 6. Release Policy
-The Vela project follows a regular release cycle. All major features and patches are merged after integration testing and are officially released twice a year (August
-and November).
- - Summer Release: Every August — includes new feature integration and results from the first half of the year
- - Winter Release: Every November — focuses on performance improvement and system stabilization
-Versioning follows the format: v<Year>.<Cycle>. Examples:
- - v2025.1 → August 2025 Release
- - v2025.2 → November 2025 Release
-
-## 7. Developer Guide
-The Vela project operates entirely on GitHub-based open collaboration to build an open RISC-V system software ecosystem. Developers and contributors are expected
-to follow the standardized process for development, build, testing, and patch submission.
-
+## 4. DashBoard & Wiki
 
 - [Project Dashboard](http://vela.falinux.com/dashboard/)
 - [Wiki](http://vela.falinux.com/mediawiki/)

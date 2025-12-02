@@ -3,7 +3,9 @@
 ## 1. Project Name and Meaning
 
 Project Name: Vela
+
 Meaning:
+
 “Vela” is derived from a constellation name, meaning “the sail that opens a voyage.” This project symbolizes opening a new voyage for Software-Defined
 Robotics (SDR) through open RISC-V–based system software technologies.
 

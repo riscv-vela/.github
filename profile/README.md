@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/84a594db-c45c-42b5-aa9e-ed8f45364aeb)
+<!--![image](https://github.com/user-attachments/assets/84a594db-c45c-42b5-aa9e-ed8f45364aeb) -->
 
 ## 1. Project Name and Meaning
 

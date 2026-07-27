@@ -28,8 +28,9 @@ The Vela project is an open RISC-V–based SDR system software stack that includ
  - ROS2: Apache-2.0 / BSD-3-Clause
  - Ubuntu Packages: GPL, LGPL, MIT, BSD, and other upstream licenses
 
+<!--!
 ## 4. DashBoard & Wiki
 
 - [Project Dashboard](http://vela.falinux.com/dashboard/)
 - [Wiki](http://vela.falinux.com/mediawiki/)
-  
+  -->

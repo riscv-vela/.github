@@ -15,10 +15,7 @@
 
 "Vela" is derived from a constellation name, meaning "the sail that opens a voyage." Vela symbolizes opening a new voyage for Software-Defined Robotics (SDR) through open RISC-V–based system software technologies.
 
-This project aims to establish an open ecosystem for intelligent service robots (SDR: Software-Defined Robotics) by developing open RISC-V–based system software technologies that are royalty-free and independent from foreign, closed computing platforms.
-Currently, most robot platforms depend on closed systems based on ARM or x86 architectures, which limit hardware flexibility and impose high licensing costs and vendor lock-in issues. These limitations hinder technological innovation, scalability,and autonomous development.
-This research seeks to create an open RISC-V–based SDR computing platform that enables flexible hardware configurations and optimization, reducing reliance on foreign technologies.
-RISC-V is an open instruction set architecture (ISA) that allows anyone to extend, customize, and implement it without royalties. Based on this RISC-V architecture,the project focuses on developing the following core system software technologies:
+This project aims to establish an open ecosystem for intelligent service robots — Software-Defined Robotics (SDR) — by developing royalty-free, RISC-V–based system software technologies free from dependence on closed foreign computing platforms. Currently, most robot platforms rely on closed ARM- or x86-based systems, which restrict hardware flexibility and impose high licensing costs and vendor lock-in. These constraints hinder innovation, scalability, and autonomous development. This research seeks to build a RISC-V–based SDR computing platform that enables flexible, optimized hardware configurations while reducing dependence on such platforms. As an open instruction set architecture (ISA), RISC-V can be freely extended, customized, and implemented without royalties. Building on this architecture, the project focuses on developing the following core system software technologies:
 
 ![Four Goals of riscv-vela project](https://github.com/riscv-vela/.github/blob/main/four_goals.png)
 <!--
@@ -28,7 +25,7 @@ RISC-V is an open instruction set architecture (ISA) that allows anyone to exten
  - High Availability: Implement RAS (Error-record Register Interface) for system error prediction, recovery, and continuous operation
 -->
 
-By integrating these technologies, the project will build a RISC-V Linux kernel–based system software distribution, incorporating AI execution engines, ROS2 (DDS)-based middleware, compilers, profilers, and verification emulators to create an open software platform for intelligent robotics.
+By integrating these technologies, the project will build a RISC-V Linux kernel–based system software distribution, incorporating ROS2 (DDS)-based middleware, compilers, profilers, and verification emulators to create an open software platform for intelligent robotics, and AI execution engines prototype.
 Ultimately, the goal is to strengthen the domestic RISC-V system software ecosystem, enhance competitiveness in various SDx (On-Device AI) industries, and promote both technological self-reliance and global open-source collaboration.
 
 ## 2. License

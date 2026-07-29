@@ -13,8 +13,9 @@
 
 ## 1. Introduction
 
-“Vela” is derived from a constellation name, meaning “the sail that opens a voyage.” This project symbolizes opening a new voyage for Software-Defined
-Robotics (SDR) through open RISC-V–based system software technologies.
+“Vela” is derived from a constellation name, meaning “the sail that opens a voyage.” 
+This project symbolizes opening a new voyage for Software-Defined
+Robotics (SDR) through **open RISC-V–based system software technologies**.
 
 This project aims to establish an open ecosystem for intelligent service robots (SDR: Software-Defined Robotics) by developing open RISC-V–based system software technologies that are royalty-free and independent from foreign, closed computing platforms.
 Currently, most robot platforms depend on closed systems based on ARM or x86 architectures, which limit hardware flexibility and impose high licensing costs and vendor lock-in issues. These limitations hinder technological innovation, scalability,and autonomous development.

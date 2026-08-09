@@ -32,6 +32,7 @@ other edge workloads.
   <img src="https://github.com/riscv-vela/.github/blob/main/profile/repo_arch.png"
        alt="Relationships among repositories" width="600">
 </p>
+
 See [Details of repo.](./repo.md) for **relationships**, **version pinning**, **Getting Started** and **contribution**.
 
 ## 4. License

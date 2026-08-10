@@ -1,6 +1,6 @@
 > [!NOTE]
 > **Coming soon.** F-Vela is currently under internal development and will be
-> released publicly as part of the [Vela](https://github.com/riscv-vela/vela)
+> released publicly as part of the [riscv-vela](https://github.com/riscv-vela/vela)
 > project. Stay tuned for the initial public release.
 
 # f-vela: RISC-V-based NPU/VPU FPGA Test Platform

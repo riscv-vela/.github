@@ -6,7 +6,7 @@ graph TB
     subgraph PKG["Packages / Toolchain"]
         tvela["<b>t-vela</b><br/>
 MLIR X-Compiler"]
-        click tvela href "https://github.com/riscv-vela/t-vela" "t-vela repository"
+        click tvela href "https://github.com/riscv-vela/.github/blob/main/profile/t-vela.md" "t-vela repository"
         vapps["<b>vela-apps</b><br/>
 RAS daemon + <br/>Keystone SDK"]
         click vapps href "https://github.com/riscv-vela/vela-apps" "vela-apps repository"
@@ -16,7 +16,7 @@ ROS 2"]
         pvela["<b>p-vela</b><br/>
 Perf · Power<br/>
 Management"]
-        click pvela href "https://github.com/riscv-vela/p-vela" "p-vela repository"
+        click pvela href "https://github.com/riscv-vela/.github/blob/main/profile/p-vela.md" "p-vela repository"
     end
 
     subgraph OS["OS / Userspace &nbsp;·&nbsp; U-mode"]
@@ -57,14 +57,14 @@ FPGA with<br/>
 Single-core,<br/>
 VelaNPU,<br/>
 and VelaVPU"]
-        click fvela href "https://github.com/riscv-vela/f-vela" "f-vela repository"
+        click fvela href "https://github.com/riscv-vela/.github/blob/main/profile/f-vela.md" "f-vela repository"
         ivela["<b>i-vela</b><br/>
 FPGA with<br/>
 Multicore,<br/>
 Multi VelaNPU/VPU,<br/>
 WorldGuard, <br/>
 and Ethernet"]
-        click ivela href "https://github.com/riscv-vela/i-vela" "i-vela repository"
+        click ivela href "https://github.com/riscv-vela/.github/blob/main/profile/i-vela.md" "i-vela repository"
     end
 
     tvela -. "compiled <br/>binaries" .-> vela

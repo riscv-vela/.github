@@ -12,6 +12,8 @@ Every layer is released publicly and developed in the open. Our goal is to grow 
 ecosystem, keeping each component reusable across robotics, industrial, automotive, and
 other edge workloads.
 
+[Open Source Summit Korea 2026 Pamphlet](https://github.com/riscv-vela/.github/blob/main/profile/riscv-vela_OSS_Korea_en.pdf)
+
 ## 2. Overview of repositories
 
 | Repository | Role | Layer | Language | Status |

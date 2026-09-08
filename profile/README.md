@@ -23,10 +23,10 @@ For a quick overview of riscv-vela, see the [Open Source Summit Korea 2026 broch
 | [`vela`](https://github.com/riscv-vela/vela) | Linux Distribution | OS | Shell | Public|
 | [`vela-linux`](https://github.com/riscv-vela/vela-linux) | Linux Kernel + Driver | OS | C | Public|
 | [`p-vela`](https://github.com/riscv-vela/.github/blob/main/profile/p-vela.md) | Power Management | System SW | Python | $\color{gray}\text{Planned}$ |
-| [`t-vela`](https://github.com/riscv-vela/.github/blob/main/profile/t-vela.md) | Cross AI Compiler | Tools | C++ | $\color{gray}\text{Planned}$ |
+| [`t-vela`](https://github.com/riscv-vela/.github/blob/main/profile/t-vela.md) | Cross AI Compiler | Tools | C++ | Public |
 | [`vela-fws`](https://github.com/riscv-vela/vela-fws) |Bootloader/Monitor | FW | C | Public |
 | [`q-vela`](https://github.com/riscv-vela/q-vela) | RISC-V SW Emulation-QEMU | HW | C | Public |
-| [`f-vela`](https://github.com/riscv-vela/.github/blob/main/profile/f-vela.md) | RISC-V FPGA| HW | Chisel, Scala, C++ | $\color{gray}\text{Planned}$ |
+| [`f-vela`](https://github.com/riscv-vela/.github/blob/main/profile/f-vela.md) | RISC-V FPGA| HW | Chisel, Scala, C++ | Public |
 | [`i-vela`](https://github.com/riscv-vela/.github/blob/main/profile/i-vela.md) | Enhanced RISC-V FPGA| HW | Chisel, Scala, C++ | $\color{gray}\text{Planned}$ |
 
 ## 3. Relationships of repositories

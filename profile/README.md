@@ -40,7 +40,7 @@ See [Details of repo.](./repo.md) for **relationships**, **version pinning**, **
 ## 4. License
 The Vela project is an open RISC-V–based SDR system software stack that includes multiple open-source components such as the Linux kernel, ROS2, and Ubuntu packages. Therefore, it is distributed under a multi-license open-source scheme, where each component retains its original license.
  - Linux Kernel: GPL-2.0 only
- - ROS2: Apache-2.0 / BSD-3-Clause
+ - ROS2: GPL, LGPL, MIT, BSD, and other upstream licenses
  - Ubuntu Packages: GPL, LGPL, MIT, BSD, and other upstream licenses
 
 ## 5. Acknowledgement  
